@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SampleWeatherApp</string>
+
+    <string name="locationFragmentTitle">Location</string>
+    <string name="weatherFragmentTitle">Weather</string>
+
+    <string name="London">London</string>
+    <string name="NewYorkCity">New York City</string>
+    <string name="Tokyo">Tokyo</string>
+    <string name="Paris">Paris</string>
+    <string name="Singapore">Singapore</string>
+    <string name="Amsterdam">Amsterdam</string>
+    <string name="Seoul">Seoul</string>
+    <string name="Berlin">Berlin</string>
+    <string name="HongKong">Hong Kong</string>
+    <string name="Sydney">Sydney</string>
+    <string name="enableGpsTitle">Please, enable gps</string>
+
+</resources>
